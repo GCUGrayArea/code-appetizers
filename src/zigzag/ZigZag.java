@@ -3,7 +3,7 @@ package zigzag ;
 public class ZigZag {
 	
 /*
-Good morning! Here's your coding interview problem for today.
+	Good morning! Here's your coding interview problem for today.
 
 This problem was asked by PayPal.
 
